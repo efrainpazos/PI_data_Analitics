@@ -4,10 +4,10 @@ El presente proyecto hecho para la academia HENRY trata sobre los accidentes aé
 ![Logo](Imagenes/ACCIDENTESAEREOSIMG.jpg)
 
 ## Objetivo
-El objetivo del presente trabajo es responder a 3 de los indicadores formulados con uso de la herramiento Power BI
+El objetivo del presente trabajo es responder a 3 de los indicadores formulados con uso de la herramienta Power BI
 - Tasa de supervivencia 
 - Cantidad de accidentes por operador
-- Cantidad de fallecitos por tipo de aeronave 
+- Cantidad de fallecidos por tipo de aeronave 
 ## Procesos 
  Se realizaron diferentes procesos al documento csv que contenía los datos para llegar a un análisis más adecuado y sin errores de la base de datos en general
 ### ETL (Extracción transformación y carga)
